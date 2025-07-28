@@ -14,10 +14,12 @@ Aplicativo para calcular o Índice de Massa Corporal (IMC) a partir da altura e 
 - JavaScript
 
 ## ▶️ Como Executar
+```bash
 git clone https://github.com/seu-usuario/calculadora-imc
 cd calculadora-imc
 npm install
 npm start
+```
 
 ## 🖼️ Imagem
 ![IMC Screenshot](./assets/images/imc.png)
